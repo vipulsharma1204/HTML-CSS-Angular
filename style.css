@@ -1,0 +1,95 @@
+body{
+    
+
+    font-family: 'Open Sans', serif;
+    font-size: large;
+
+    width: 1800px;
+    -webkit-font-smoothing: antialiased;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: none;
+    /* height: 1080px; */
+    
+}
+.U_log{
+    border-radius: 12px;
+    font-size: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: rgba(0, 157, 248, 0.774);
+    transform: translate(10px,-120px);
+}
+
+.background{
+    border-radius: 20px;
+    width: 1600px;
+    height: 950px;
+    margin-top: 8%;
+    margin-left: 8%;
+    margin-bottom: 8%;
+    right:0% 1%;
+    background-color: white;
+}
+.vector{
+    width: 1000px;
+    height: 1000px;
+    /* position: absolute; */
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-bottom: 10%;
+    /* margin-right: 5%; */
+    height: 780px;
+}
+.username1{
+    background-color:rgb(255, 115, 115) ;
+    float: right;
+    /* margin-top: 12px; */
+    padding: 15px;
+    position: absolute;
+    width: 68%;
+    border-radius: 15px;
+    /* transform: translate(800px,300px); */
+    
+}
+.Account{
+    width: 500px;
+    position: relative;
+    transform: translate(1100px,-850px);
+}
+.D_login{
+    position: static;
+    transform: translate(150px,80px);
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(0, 157, 248, 0.774);
+}
+.forgot{
+    width: 20px;
+    transform: translate(250px,-10px);
+    color: blue;
+
+}
+.connect
+{ 
+    transform: translate(100px,1px);
+    
+}
+.connect1
+{ 
+    transform: translate(140px,1px);
+    
+}
+.forgpass{
+    left: 12%;
+    transform: translate(250px,52px);
+}
+.logo{
+    position: relative;
+    width: 32px;
+    height: 32px;
+}
+
